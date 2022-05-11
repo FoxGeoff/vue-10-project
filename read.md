@@ -6,4 +6,7 @@
 
 ### Task: Setup
 
-1. "npm install" "ng serve -o"
+1. "npm install" "npm run build"
+2. Instructions <https://cli.vuejs.org/guide/deployment.html#gitlab-pages>
+3. "npm install -g server
+4. "serve -s dist"
